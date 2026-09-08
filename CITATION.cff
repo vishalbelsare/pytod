@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper in preferred-citation below."
+title: "TOD (PyTOD)"
+abstract: "GPU-accelerated outlier detection via tensor operations."
+type: software
+authors:
+  - family-names: "Zhao"
+    given-names: "Yue"
+    orcid: "https://orcid.org/0000-0003-3401-4921"
+  - family-names: "Chen"
+    given-names: "George H."
+  - family-names: "Jia"
+    given-names: "Zhihao"
+repository-code: "https://github.com/yzhao062/pytod"
+license: BSD-2-Clause
+keywords:
+  - "anomaly-detection"
+  - "outlier-detection"
+  - "gpu-acceleration"
+  - "gpu-systems"
+  - "machine-learning"
+  - "unsupervised-learning"
+preferred-citation:
+  type: article
+  title: "TOD: GPU-accelerated Outlier Detection via Tensor Operations"
+  authors:
+    - family-names: "Zhao"
+      given-names: "Yue"
+      orcid: "https://orcid.org/0000-0003-3401-4921"
+    - family-names: "Chen"
+      given-names: "George H."
+    - family-names: "Jia"
+      given-names: "Zhihao"
+  journal: "Proceedings of the VLDB Endowment"
+  year: 2023
+  volume: 16
+  url: "https://www.vldb.org/pvldb/volumes/16/paper/TOD%3A%20GPU-accelerated%20Outlier%20Detection%20via%20Tensor%20Operations"
